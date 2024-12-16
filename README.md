@@ -1,4 +1,4 @@
-# 🚀 Proyectos de Desarrollo en Entorno Servidor 🌐
+# 🚀 Proyectos de Desarrollo en Entorno Servidor
 
 Bienvenido a este repositorio donde se recopilan diversos proyectos y ejercicios realizados en el ámbito del desarrollo web en entorno servidor. Aquí podrás encontrar ejemplos prácticos de lo que hemos aprendido, desde la gestión de sesiones hasta el manejo de bases de datos y formularios dinámicos. 💻
 
