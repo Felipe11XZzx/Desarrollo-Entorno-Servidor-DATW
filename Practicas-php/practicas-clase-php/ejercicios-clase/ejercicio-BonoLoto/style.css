@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f9f9f9;
+    padding: 20px;
+}
+
+fieldset {
+    border: 2px solid #0a3622;
+    border-radius: 10px;
+    display: inline-block;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+legend {
+    font-weight: bold;
+    color: #0a3622;
+}
+
+.bonoloto {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    line-height: 60px;
+    margin: 10px;
+    background-color: #ffffff;
+    color: #000000;
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align: center;
+    border: 2px solid #000000;
+    border-radius: 50%; /* Hace que el elemento sea un círculo */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); /* Sombra para darle profundidad */
+}
+
+h1 {
+    color: #0a3622;
+    font-size: 1.8em;
+}
